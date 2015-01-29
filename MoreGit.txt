@@ -1,0 +1,2 @@
+we just cloned a repository to our computers by
+'git clone https://github.com/JazzYas/ruby'
